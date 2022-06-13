@@ -1,0 +1,2 @@
+#Bus 001 Device 008: ID 040d:340a VIA Technologies, Inc. USB Audio Device DISABLE 
+SUBSYSTEM=="usb", ATTRS{idVendor}=="040d", ATTRS{idProduct}=="340a", ATTR{authorized}="0"
